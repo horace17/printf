@@ -1,1 +1,1 @@
-A printf group project
+A printf group project (Horace and Mwaura)
