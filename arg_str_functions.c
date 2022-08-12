@@ -109,7 +109,7 @@ int print_str_reverse(va_list ap)
 }
 
 /**
- * print_rot13 - print string with rot13
+ * print_rot13 - print rot13'ed string
  * @ap: arg list
  * Return: number of printed char
  */
