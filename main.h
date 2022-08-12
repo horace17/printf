@@ -28,7 +28,7 @@ char *_strdup(char *str);
 char *convert_base_pointer(unsigned long p);
 
 /**
- * struct flags_printf - struct conversion to function
+ * struct flags_printf - struct conversion to function only
  * @c: flag string
  * @f: pointer to func
  */
