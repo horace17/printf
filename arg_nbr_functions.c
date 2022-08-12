@@ -39,6 +39,7 @@ int print_binary(va_list ap)
 }
 
 /**
+ * Author Horace and Mwaura
  * print_octal - print number octal base
  * @ap: arg list
  * Return: number of printed char
