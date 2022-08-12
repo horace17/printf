@@ -67,7 +67,7 @@ char *convert_base_pointer(unsigned long p)
 	return (str);
 }
 /**
- * convert_rot13 - encode using rot13
+ * convert_rot13 - rot13'ed encoding
  * @str: string to encode
  * Return: encoded string
  */
